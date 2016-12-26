@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+	<VALUE>
+		<ID>流程编号</ID>
+		<contractName>合同名称</contractName>
+		<partyA>甲方</partyA>
+		<partyB>乙方</partyB>
+		<contractType>合同类型</contractType>
+	</VALUE>
+</CONFIG> 
